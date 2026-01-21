@@ -1,7 +1,7 @@
 # 🤖 Rule-Based Customer Support Chatbot
 
 A full-stack **rule-based customer support chatbot** built using **React, Node.js, Express, and MySQL**.  
-This project does **NOT use any paid APIs or AI services** and works completely on **keyword-based rules** stored in the database.
+This works completely on **keyword-based rules** stored in the database.
 
 ---
 
